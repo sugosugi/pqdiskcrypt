@@ -1,0 +1,5 @@
+cryptography==50.0.1
+pqcrypto==0.4.0
+cffi==2.0.0
+pycparser==2.23
+typing-extensions==4.15.0; python_version < "3.11"
